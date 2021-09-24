@@ -1,12 +1,12 @@
 import React from 'react'
 
 const Project = () => {
-    const procal = "../images/cal.png"
-    const proweather = "../images/weather.png"
-    const protic = "../images/tic3.png"
-    const propiano = "../images/piano1.jpg"
-    const propcovid = "../images/covid.png"
-    const propform = "../images/form.jpg"
+    const procal = "../Resume/images/cal.png"
+    const proweather = "../Resume/images/weather.png"
+    const protic = "../Resume/images/tic3.png"
+    const propiano = "../Resume/images/piano1.jpg"
+    const propcovid = "../Resume/images/covid.png"
+    const propform = "../Resume/images/form.jpg"
 
     return (
         <div>

@@ -32,6 +32,7 @@ const Header = () => {
                         <a href="https://www.facebook.com/Ehasanali.masi" target="_blank" className="facebook"><i className="bx bxl-facebook" /></a>
                         <a href="https://www.instagram.com/ehesan_6055/" target="_blank" className="instagram"><i className="bx bxl-instagram" /></a>
                         <a href="https://www.linkedin.com/in/ehesanali-masi-961a43193/" target="_blank" className="linkedin"><i className="bx bxl-linkedin" /></a>
+                        <a href="https://twitter.com/Ehesanalimasi" target="_blank" className="twitter"><i className="bx bxl-github" size="2px" /></a>
                     </div>
                 </div>
             </section>

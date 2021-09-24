@@ -1,7 +1,7 @@
 import React from 'react'
 
 const About = () => {
-    const imgabout = "../images/Ehesanali.png"
+    const imgabout = "../Resume/images/Ehesanali.png"
     return (
         <div>
             <section id="about" className="about">
