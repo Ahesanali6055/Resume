@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Resume/static/css/main.229256b0.chunk.css",
-    "main.js": "/Resume/static/js/main.db79c7d1.chunk.js",
-    "main.js.map": "/Resume/static/js/main.db79c7d1.chunk.js.map",
+    "main.css": "/Resume/static/css/main.1b8f82ee.chunk.css",
+    "main.js": "/Resume/static/js/main.38c8aa86.chunk.js",
+    "main.js.map": "/Resume/static/js/main.38c8aa86.chunk.js.map",
     "runtime-main.js": "/Resume/static/js/runtime-main.f9a5ef17.js",
     "runtime-main.js.map": "/Resume/static/js/runtime-main.f9a5ef17.js.map",
     "static/js/2.78a04168.chunk.js": "/Resume/static/js/2.78a04168.chunk.js",
     "static/js/2.78a04168.chunk.js.map": "/Resume/static/js/2.78a04168.chunk.js.map",
     "index.html": "/Resume/index.html",
-    "static/css/main.229256b0.chunk.css.map": "/Resume/static/css/main.229256b0.chunk.css.map",
+    "static/css/main.1b8f82ee.chunk.css.map": "/Resume/static/css/main.1b8f82ee.chunk.css.map",
     "static/js/2.78a04168.chunk.js.LICENSE.txt": "/Resume/static/js/2.78a04168.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Resume/static/media/Ehesanaliimg.5e89c122.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f9a5ef17.js",
     "static/js/2.78a04168.chunk.js",
-    "static/css/main.229256b0.chunk.css",
-    "static/js/main.db79c7d1.chunk.js"
+    "static/css/main.1b8f82ee.chunk.css",
+    "static/js/main.38c8aa86.chunk.js"
   ]
 }
