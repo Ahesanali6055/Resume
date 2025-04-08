@@ -387,14 +387,14 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-#about.about{
+#about.about {
   padding: 15px, 15px;
   margin-top: 30px;
   margin-left: 20px;
 }
 
 @media (max-width: 768px) {
-  #about .image-Ehesan{
+  #about .image-Ehesan {
     text-align: center;
   }
 }
@@ -525,14 +525,16 @@ section {
 /*--------------------------------------------------------------
 # Project
 --------------------------------------------------------------*/
-#project{
+#project {
   background-color: whitesmoke;
   color: black;
 }
 
 .project .icon-box {
   text-align: center;
-  padding: 70px 20px 80px 20px;
+  /* padding: 70px 20px 80px 20px; */
+  padding: 10px;
+  border-radius: 10px;
   transition: all ease-in-out 0.3s;
   background: #fff;
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
@@ -570,6 +572,21 @@ section {
   font-weight: 600;
   margin: 10px 0 15px 0;
   font-size: 22px;
+}
+
+.project .main_proj {
+  margin-bottom: 25px;
+}
+
+.project .projHeader {
+  font-weight: 500;
+  margin: 10px 0 15px 0;
+  font-size: 22px;
+}
+
+.project .projHeader h6 {
+  margin-top: 2px;
+  color: #45505b;
 }
 
 .project .icon-box h4 a {
@@ -730,38 +747,55 @@ section {
 
 .probar2 {
   text-align: right;
-  border: 5px;
+  border-radius: 20px;
   color: white;
   background-color: rgb(247, 240, 240);
 }
 
 .html {
-  width: 90%; 
+  width: 90%;
   background-color: navy;
+  border-radius: 20px;
 }
 
 .css {
-  width: 90%; 
+  width: 90%;
   background-color: navy;
+  border-radius: 20px;
 }
 
 .javascript {
-  width: 85%; 
+  width: 85%;
   background-color: navy;
+  border-radius: 20px;
+}
+
+.typescript {
+  width: 80%;
+  background-color: navy;
+  border-radius: 20px;
 }
 
 .json {
-  width: 90%; 
+  width: 90%;
   background-color: navy;
+  border-radius: 20px;
 }
 
 .bootstrap {
-  width: 90%; 
+  width: 90%;
   background-color: navy;
+  border-radius: 20px;
 }
 
 .react {
-  width: 85%; 
+  width: 90%;
   background-color: navy;
+  border-radius: 20px;
 }
 
+.next {
+  width: 85%;
+  background-color: navy;
+  border-radius: 20px;
+}

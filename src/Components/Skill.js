@@ -25,14 +25,13 @@ const Skill = () => {
                                 </div>
                             </div>
                             <div className="probar">
-                                <span className="skill">JavaScript </span>
+                                <span className="skill">TailwindCSS </span>
                                 <div className="probar2">
-                                    <div className="skills javascript">85%</div>
+                                    <div className="skills css">90%</div>
                                 </div>
                             </div>
-                        </div>
-                        <div className="col-lg-6">
-                        <div className="probar">
+
+                            <div className="probar">
                                 <span className="skill">Json </span>
                                 <div className="probar2">
                                     <div className="skills json">90%</div>
@@ -44,10 +43,30 @@ const Skill = () => {
                                     <div className="skills bootstrap">90%</div>
                                 </div>
                             </div>
+                        </div>
+                        <div className="col-lg-6">
+                            <div className="probar">
+                                <span className="skill">JavaScript </span>
+                                <div className="probar2">
+                                    <div className="skills javascript">85%</div>
+                                </div>
+                            </div>
+                            <div className="probar">
+                                <span className="skill">TypeScript </span>
+                                <div className="probar2">
+                                    <div className="skills typescript">80%</div>
+                                </div>
+                            </div>
                             <div className="probar">
                                 <span className="skill">React Js. </span>
                                 <div className="probar2">
-                                    <div className="skills react">85%</div>
+                                    <div className="skills react">90%</div>
+                                </div>
+                            </div>
+                            <div className="probar">
+                                <span className="skill">Next Js. </span>
+                                <div className="probar2">
+                                    <div className="skills next">85%</div>
                                 </div>
                             </div>
                         </div>

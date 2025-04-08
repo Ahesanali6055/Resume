@@ -51,7 +51,7 @@ const Resume = () => {
                                     <li> Collaborated with cross-functional teams including designers and project managers to ensure timely delivery of features.</li>
                                     <li> Wrote clean, maintainable, and well-documented code following best practices and coding standards.</li>
                                 </ul>
-                                <h5><em><b>Trainee</b></em> ( October 2021 - March 2022 )</h5>
+                                <h5><em><b>Trainee</b></em> ( October 2021 - April 2022 )</h5>
                                 <ul>
                                     <li> Built responsive web apps using HTML, CSS, Bootstrap, JavaScript and ReactJS with a focus on components and hooks.</li>
                                     <li> Created dynamic UIs by integrating APIs, reusing components, and optimizing performance.</li>
